@@ -15,6 +15,7 @@ public class MapConcept {
 		mp.put(2, "sonu");
 		mp.put(4, "jasmine");
 		mp.put(5, "vel");
+		mp.put(6,"horse");
 		
 		//Requisition from set
 		Set<Entry<Integer, String>> entry = mp.entrySet();
